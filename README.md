@@ -23,7 +23,7 @@ By accessing this web site, you are agreeing to be bound by these web site Terms
 
 ### Amazon ECHO app Boston Food Truck
 
-1.  The Boston Food Truck app from mycrobonics.com available on ALEXA(TM) skill store, does not collect / save user information on any server owned/operated by Mycrobonics.com. The entire app is hosted on Amazon AWS and the source is publically available at https://github.com/sajingeo/askMBTA , all the publications/ updates to this code is monitored and controlled my mycrobonics.com / sajingeo and will be closely montitored to prevent any breach of this privacy policy.
+1.  The Boston Food Truck app from mycrobonics.com available on ALEXA(TM) skill store, does not collect / save user information on any server owned/operated by Mycrobonics.com. Please report bugs on https://github.com/sajingeo/bostonfoodtruck
 
 ### 4\. Limitations
 
